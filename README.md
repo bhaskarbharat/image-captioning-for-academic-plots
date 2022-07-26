@@ -25,3 +25,6 @@ In academia we use figures and graphs to communicate rich,complex information. T
 - Assistance for Visually Impaired
 - Image Search Applications
 - Visualizing Attentions can have applications in Medical Image Reading
+
+## Project Presentation
+[![project presentation](https://github.com/bhaskarbharat/image-captioning-for-academic-plots/raw/main/images/project%20presentation.png)](https://drive.google.com/file/d/10z5r9m_BdSIs1vfkUfKlv7l-D75P0Elt/view?usp=sharing)

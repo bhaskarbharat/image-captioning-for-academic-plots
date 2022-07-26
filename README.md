@@ -18,6 +18,9 @@ In academia we use figures and graphs to communicate rich,complex information. T
 - [SCICAP Dataset](https://paperswithcode.com/dataset/scicap) : SCICAP is a large-scale image captioning dataset that contains real-world scientific figures and captions. SCICAP was constructed using more than two million images from over 290,000 papers collected and released by arXiv.
 - Curation of captioned academic figures and graphs dataset based on Univ.AI course slides.
 
+## Sample Attention Plot
+![attention plot](https://github.com/bhaskarbharat/image-captioning-for-academic-plots/raw/main/images/attention%20plot.png)
+
 ## Potential Applications
 - Assistance for Visually Impaired
 - Image Search Applications
